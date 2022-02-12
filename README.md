@@ -1,4 +1,4 @@
-(https://i.pinimg.com/564x/cc/54/f0/cc54f0b28376026979cec60f47f1469e.jpg)
+![Web Developer] (https://github.com/Tha-Toe/Tha-Toe/blob/main/git%20profile.jpg)
 <h1 align="center">Hi 👋, I'm Tha-Toe</h1>
 <h3 align="center">Web Developer</h3>
 
