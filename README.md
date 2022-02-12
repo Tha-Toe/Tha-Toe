@@ -1,3 +1,5 @@
+![Web Developer] (https://github.com/Tha-Toe/Tha-Toe/blob/main/cc54f0b28376026979cec60f47f1469e.jpg)
+
 <h1 align="center">Hi 👋, I'm Tha-Toe</h1>
 <h3 align="center">Web Developer</h3>
 
