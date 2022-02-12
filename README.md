@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **thatoe510@gmail.com**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tha-Toe&show_icons=true&theme=tokyonight)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/tha-toe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tha-toe" height="30" width="40" /></a>
