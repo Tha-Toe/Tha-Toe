@@ -1,4 +1,4 @@
-![Web Developer] https://github.com/Tha-Toe/Tha-Toe/blob/main/git%20profile.jpg
+![Web Developer] (https://github.com/Tha-Toe/Tha-Toe/blob/main/git%20profile.jpg)
 <h1 align="center">Hi 👋, I'm Tha-Toe</h1>
 <h3 align="center">Web Developer</h3>
 
