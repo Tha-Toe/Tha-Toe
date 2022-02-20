@@ -1,3 +1,5 @@
+![WebDeveloper](https://github.com/Tha-Toe/Tha-Toe/blob/main/git%20feature%20pic.PNG)
+
 <h1 align="center">Hi 👋, I'm Tha-Toe</h1>
 <h3 align="center">Web Developer</h3>
 
