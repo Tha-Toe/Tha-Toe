@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tha-Toe</h1>
 <h3 align="center">Experted Frontend Developer</h3>
 
-- 🌱 I’m currently working with **NEXT-JS**
+- 🌱 I’m currently working using **NEXT-JS as a fullstack language**
 
 - 👨‍💻 All of my projects are available at [http://github.com/Tha-Toe](http://github.com/Tha-Toe)
 
