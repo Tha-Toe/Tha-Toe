@@ -1,15 +1,14 @@
-![WebDeveloper](https://github.com/Tha-Toe/Tha-Toe/blob/main/git%20feature%20pic.PNG)
 
 <h1 align="center">Hi 👋, I'm Tha-Toe</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Experted Frontend Developer</h3>
 
-- 🌱 I’m currently learning **React-JS**
+- 🌱 I’m currently working with **NEXT-JS**
 
 - 👨‍💻 All of my projects are available at [http://github.com/Tha-Toe](http://github.com/Tha-Toe)
 
-- 💬 Ask me about **Css, Git, CPannel, Javascript**
+- 💬 Ask me about **NEXTJS(FULL STACK), SALEOR, NODEJS, JAVASCRIPT, **
 
-- 📫 How to reach me **thatoe510@gmail.com**
+- 📫 How to reach me **thatoe510@gmail.com OR thatoesaung510dev@gmail.com**
 <img width="35%" align="right" alt="Github" src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tha-Toe&show_icons=true&theme=tokyonight)
